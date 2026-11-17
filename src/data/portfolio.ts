@@ -177,7 +177,7 @@ export const projects: Project[] = [
       "Keeps private documents on the local machine",
     ],
     live: null,
-    github: "https://github.com/MansiSiddhanti",
+    github: "https://github.com/MansiSiddhanti/AI_Projects/tree/main/chat-with-your-documents",
   },
   {
     id: 2,
@@ -288,7 +288,7 @@ export const projects: Project[] = [
     ],
     impact: ["Applied transfer learning to a real agricultural image problem"],
     live: null,
-    github: "https://github.com/MansiSiddhanti",
+    github: "https://github.com/MansiSiddhanti/AI_Projects/tree/main/plant-leaf-disease-classifier",
   },
   {
     id: 5,
