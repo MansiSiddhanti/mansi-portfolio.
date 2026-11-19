@@ -294,7 +294,7 @@ export const projects: Project[] = [
     id: 5,
     title: "AI-Based Garbage Detection",
     icon: "Trash2",
-    tagline: "Real-time YOLO detector for plastic, paper and bottles",
+    tagline: "Real-time YOLO detector for plastic, paper and bottles, built as a freelance project",
     ownership: "Built the dataset preparation, YOLO training and real-time inference",
     description:
       "A real-time YOLO object detector for plastic, paper and bottles, trained on 1,000+ images prepared with Roboflow.",
@@ -319,7 +319,7 @@ export const projects: Project[] = [
     ],
     impact: ["Working real-time detector across three waste categories"],
     live: null,
-    github: "https://github.com/MansiSiddhanti",
+    github: null,
   },
   {
     id: 6,
@@ -350,7 +350,7 @@ export const projects: Project[] = [
     ],
     impact: ["Touchless control using only a standard webcam"],
     live: null,
-    github: "https://github.com/MansiSiddhanti",
+    github: null,
   },
   {
     id: 7,
@@ -381,7 +381,7 @@ export const projects: Project[] = [
     ],
     impact: ["Combined computer vision and robotics into an autonomous vehicle"],
     live: null,
-    github: "https://github.com/MansiSiddhanti",
+    github: null,
   },
 ];
 
